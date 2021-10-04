@@ -1,0 +1,139 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+    font-family: cursive;
+    font-size: 24px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    text-decoration: underline;
+}
+
+li a:hover {
+  background-color:#D6EAF8;
+}
+   
+    body {
+  background-image: url('Image/Ayush.jpg');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+
+}
+   #l1{
+  display: block;
+  width: 20%;
+        }
+          #mail{
+  display: block;
+  width: 20%;
+        }      
+   #AClogo{
+  display: block;
+  width: 40%;
+        }
+        #h1{
+            text-align: center;
+            width: 50%;
+            color: #1F618D;
+            font-family: cursive;
+            margin-top: -50px;
+            font-size: 50px;
+            font-weight: bold;
+            border: 3px solid black;
+            background: linear-gradient(to left, #669999 60%, #ffffff 100%);
+        }
+        #h2{
+            text-align: center;
+            width: 50%;
+            color: #1F618D;
+            font-family: cursive;
+            margin-top: -50px;
+            font-size: 34px;
+            font-weight: bold;
+            border: 3px solid black;
+            background: linear-gradient(to left, #669999 60%, #ffffff 100%);
+        }
+        #A1{
+            font-size:45px;
+            font-style: italic;
+            text-decoration: underline;
+        }   
+        #A2{
+            text-align: left;
+            font-size:45px;
+            font-style: italic;
+            text-decoration: underline;
+        }
+        #A3{
+            text-align: left;
+            font-size:45px;
+            font-style: italic;
+            text-decoration: underline;
+        }
+        .P1{
+           
+            font-family: cursive;
+            color: #1F618D;
+            font-size: 25px;
+            font-style: italic;
+            font-weight: bold;
+            border: 3px solid black;
+            width: 50%;
+            background: linear-gradient(to left, #669999 50%, #ffffff 100%);
+        }
+        
+            .P2{
+            font-family: cursive;
+            color: #1F618D;
+            font-size: 25px;
+            font-style: italic;
+            font-weight: bold;
+            border: 3px solid black;
+            width: 50%;
+            background: linear-gradient(to left, #669999 40%, #ffffff 100%);
+        }
+        
+            .P3{
+            font-family: cursive;
+                color: #1F618D;
+            font-size: 25px;
+            font-style: italic;
+            font-weight: bold;
+            border: 3px solid black;
+            width: 50%;
+            background: linear-gradient(to left, #669999 40%, #ffffff 100%);
+        }
+        #contact{
+            font-family: cursive;
+                color: #1F618D;
+            font-size: 25px;
+            font-style: italic;
+            font-weight: bold;
+            border: 3px solid black;
+            width: 50%;
+            background: linear-gradient(to left, #669999 40%, #ffffff 100%);
+            margin-top: 10px;
+        }
+        
+footer {
+   left: 0;
+   bottom: 0;
+  font-size: 23px;
+   color: black;
+   text-align: center;
+}
+        
